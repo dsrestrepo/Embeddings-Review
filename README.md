@@ -49,7 +49,7 @@ The included-record CSV is the input to annotation and plotting. Keep `Title`, `
 
 ### Manual reviewer features
 
-The general analysis expects these columns. List-valued cells (for example `['EHR', 'clinical notes']`) or semicolon-separated values.
+The general analysis expects these columns. List-valued cells may be entered as literal lists (for example `['EHR', 'clinical notes']`) or as semicolon-separated values.
 
 | Column | Reviewer-entered content |
 |---|---|
