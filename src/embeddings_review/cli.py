@@ -1,4 +1,4 @@
-"""Command-line interface for the review preprocessing and analysis workflow."""
+"""Command-line interface for review preprocessing and analysis."""
 
 from __future__ import annotations
 

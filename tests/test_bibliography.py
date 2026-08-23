@@ -1,6 +1,6 @@
 import pandas as pd
 
-from npj_embeddings_review.bibliography import (
+from embeddings_review.bibliography import (
     attach_abstracts_to_dataframe,
     merge_bibliographic_dataframes,
     normalize_doi,

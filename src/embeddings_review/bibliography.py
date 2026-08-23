@@ -1,4 +1,4 @@
-"""Functions for preprocessing and merging bibliographic database exports."""
+"""Preprocess and merge bibliographic database exports."""
 
 from __future__ import annotations
 
@@ -185,4 +185,3 @@ def merge_bibliographic_databases(
     Path(output_csv).parent.mkdir(parents=True, exist_ok=True)
     merged.to_csv(output_csv, index=False)
     return stats
-

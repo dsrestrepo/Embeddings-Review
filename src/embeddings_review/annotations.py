@@ -1,4 +1,4 @@
-"""Validation and normalization of manual reviewer annotations."""
+"""Validate and normalize manual reviewer annotations."""
 
 from __future__ import annotations
 

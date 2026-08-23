@@ -1,4 +1,4 @@
-"""Preprocessing and analysis utilities for the NPJ embeddings review."""
+"""Preprocessing and analysis utilities for the embeddings review."""
 
 from .annotations import clean_general_annotations, normalize_detailed_annotations
 from .bibliography import attach_pubmed_abstracts, merge_bibliographic_databases
@@ -9,4 +9,3 @@ __all__ = [
     "merge_bibliographic_databases",
     "normalize_detailed_annotations",
 ]
-

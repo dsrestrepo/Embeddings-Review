@@ -1,6 +1,6 @@
 import pandas as pd
 
-from npj_embeddings_review.annotations import (
+from embeddings_review.annotations import (
     clean_general_annotations,
     normalize_detailed_annotations,
     parse_list_cell,

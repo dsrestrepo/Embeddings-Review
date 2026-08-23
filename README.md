@@ -1,4 +1,4 @@
-# NPJ Embeddings Review: reproducible preprocessing and analysis
+# Embeddings Review: reproducible preprocessing and analysis
 
 This repository provides a script-based version of the preprocessing and plotting workflow used for the review. It covers:
 
@@ -74,7 +74,7 @@ An optional, more detailed taxonomy is also supported:
 - `Task_generative`
 - `Task_others`, `Summary`, and `Details`
 
-Allowed values for the detailed taxonomy are defined in `src/npj_embeddings_review/schema.py`. Reviewers can use the generated annotation template to enter them consistently.
+Allowed values for the detailed taxonomy are defined in `src/embeddings_review/schema.py`. Reviewers can use the generated annotation template to enter them consistently.
 
 See [`docs/annotation_codebook.md`](docs/annotation_codebook.md) for definitions, allowed values, and conditional entry rules.
 

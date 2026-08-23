@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from npj_embeddings_review.analysis import analyze_detailed_taxonomy, analyze_general_annotations
+from embeddings_review.analysis import analyze_detailed_taxonomy, analyze_general_annotations
 
 
 def example_annotations() -> pd.DataFrame:

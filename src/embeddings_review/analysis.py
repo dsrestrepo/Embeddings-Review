@@ -1,4 +1,4 @@
-"""Frequency tables, summary statistics, and plots for reviewer annotations."""
+"""Create frequency tables, summary statistics, and reviewer-annotation plots."""
 
 from __future__ import annotations
 

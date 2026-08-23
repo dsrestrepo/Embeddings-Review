@@ -1,4 +1,4 @@
-"""Reviewer annotation columns and controlled vocabularies."""
+"""Define reviewer annotation columns and controlled vocabularies."""
 
 GENERAL_COLUMNS = [
     "data_type",
